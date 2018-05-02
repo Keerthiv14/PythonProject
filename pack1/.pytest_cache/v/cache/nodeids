@@ -1,0 +1,4 @@
+[
+  "test_TC01_CreateIncident.py::test_open_url", 
+  "test_TC01_CreateIncident.py::test_close_browser"
+]
